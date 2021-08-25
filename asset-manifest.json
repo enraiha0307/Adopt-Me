@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Adopt-Me/static/css/main.fd418678.chunk.css",
+    "main.js": "/Adopt-Me/static/js/main.7cf8c47a.chunk.js",
+    "main.js.map": "/Adopt-Me/static/js/main.7cf8c47a.chunk.js.map",
+    "runtime-main.js": "/Adopt-Me/static/js/runtime-main.3557b8e7.js",
+    "runtime-main.js.map": "/Adopt-Me/static/js/runtime-main.3557b8e7.js.map",
+    "static/js/2.7d1bd310.chunk.js": "/Adopt-Me/static/js/2.7d1bd310.chunk.js",
+    "static/js/2.7d1bd310.chunk.js.map": "/Adopt-Me/static/js/2.7d1bd310.chunk.js.map",
+    "static/js/3.d6c9b091.chunk.js": "/Adopt-Me/static/js/3.d6c9b091.chunk.js",
+    "static/js/3.d6c9b091.chunk.js.map": "/Adopt-Me/static/js/3.d6c9b091.chunk.js.map",
+    "index.html": "/Adopt-Me/index.html",
+    "static/css/main.fd418678.chunk.css.map": "/Adopt-Me/static/css/main.fd418678.chunk.css.map",
+    "static/js/2.7d1bd310.chunk.js.LICENSE.txt": "/Adopt-Me/static/js/2.7d1bd310.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3557b8e7.js",
+    "static/js/2.7d1bd310.chunk.js",
+    "static/css/main.fd418678.chunk.css",
+    "static/js/main.7cf8c47a.chunk.js"
+  ]
+}
